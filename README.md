@@ -1,2 +1,3 @@
 # StrikeWorks-Games-Website
-Created with CodeSandbox
+
+Created with love by Gilbert Anderson
