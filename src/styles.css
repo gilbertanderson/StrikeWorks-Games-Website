@@ -470,19 +470,19 @@ body {
 }
 
 .home {
-  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fuwaterloo.ca%2Fcomputing-financial-management%2Fevents%2Fmidterm-study-break-game-night-see-times-below&psig=AOvVaw28Lh1PmRye6S0OWU_ICblk&ust=1652865607212000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIiM_7Ca5vcCFQAAAAAdAAAAABAP);
+  background-image: url(https://miro.medium.com/max/1400/1*rB-3Q2k7o9qk8IyAzx-TRA.gif);
 }
 
 @media (min-width: 35rem) {
   .home {
     background-position: center center;
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fuwaterloo.ca%2Fcomputing-financial-management%2Fevents%2Fmidterm-study-break-game-night-see-times-below&psig=AOvVaw28Lh1PmRye6S0OWU_ICblk&ust=1652865607212000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIiM_7Ca5vcCFQAAAAAdAAAAABAP);
+    background-image: url(https://miro.medium.com/max/1400/1*PtpXqEPeIsAcAvAXUs1dDA.gif);
   }
 }
 
 @media (min-width: 45rem) {
   .home {
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fuwaterloo.ca%2Fcomputing-financial-management%2Fevents%2Fmidterm-study-break-game-night-see-times-below&psig=AOvVaw28Lh1PmRye6S0OWU_ICblk&ust=1652865607212000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIiM_7Ca5vcCFQAAAAAdAAAAABAP);
+    background-image: url(https://miro.medium.com/max/1400/1*rB-3Q2k7o9qk8IyAzx-TRA.gif);
   }
 }
 
