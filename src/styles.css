@@ -199,6 +199,22 @@ select {
 .text-white {
   color: hsl(var(--clr-white));
 }
+.text-yellow {
+  color: rgb(243, 243, 54);
+}
+.text-blue {
+  color: rgb(68, 66, 202);
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 4px lightblue;
+}
+
+.raise:hover,
+.raise:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  transform: translateY(-0.25em);
+}
 
 /* typography */
 
@@ -470,7 +486,7 @@ body {
 }
 
 .home {
-  background-image: url(https://miro.medium.com/max/1400/1*rB-3Q2k7o9qk8IyAzx-TRA.gif);
+  background-image: url(https://media2.giphy.com/media/p4nJdaLrJqzuMkCmGD/giphy.gif?cid=790b76114bb06b732f0b5f4f5730be97bb4e4a9ef705f6a0&rid=giphy.gif&ct=g);
 }
 
 @media (min-width: 35rem) {
