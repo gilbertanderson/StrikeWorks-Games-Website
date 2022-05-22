@@ -207,7 +207,7 @@ select {
 }
 
 .text-shadow {
-  text-shadow: 4px 4px 8px lightblue;
+  text-shadow: 4px 4px 8px blue;
 }
 
 .raise:hover,
