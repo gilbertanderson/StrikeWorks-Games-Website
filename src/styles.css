@@ -370,7 +370,7 @@ select {
     margin: 0;
     flex-direction: column;
     transform: translateX(100%);
-    transition: transform 500ms ease-in-out;
+    transition: transform 500ms ease-in-out 250s;
   }
 
   .primary-navigation[data-visible="true"] {
